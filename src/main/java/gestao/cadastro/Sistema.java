@@ -8,6 +8,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Sistema {
+    //Sim Eu usei chat para deixar Bonito, Mais Todos a função fui que fiz
+
     private List<Funcionario> listaFuncionarios = new ArrayList<>();
     private List<Vendedor> listaVendedors = new ArrayList<>();
     private Scanner leitura = new Scanner(System.in);
